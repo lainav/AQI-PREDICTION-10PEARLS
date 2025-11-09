@@ -1,0 +1,12 @@
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+scikit-learn
+joblib
+streamlit
+hopsworks
+pandas
+plotly
+matplotlib
+hopsworks[python]
